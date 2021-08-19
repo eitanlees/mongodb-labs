@@ -80,9 +80,9 @@ Steps:
           <form action="http://localhost:35080/api/v1/mongo/insert" method="POST">
               <p>First Name</p><input type="text" name="fname"/>
               <p>Occupation</p><input type="text" name="occupation"/>
-              <p>Occupation2</p><input type="text" name="occupation">
-              <p>Home Number</p><input type="text" name="phone"/>
-              <p>Mobile Number</p><input type="text" name="phone"/>
+              <p>Occupation2</p><input type="text" name="occupation2">
+              <p>Home Number</p><input type="text" name="phoneHome"/>
+              <p>Mobile Number</p><input type="text" name="phoneMobile"/>
               <input type="submit" value="submit">
          </form>
       </body>
